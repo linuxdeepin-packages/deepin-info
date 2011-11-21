@@ -1,0 +1,29 @@
+deepin-info (2011.08.23) oneiric; urgency=low
+
+  * automatic generate info file when build.
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Tue, 23 Aug 2011 13:56:45 +0800
+
+deepin-info (2011.07.23) natty-updates; urgency=low
+
+  * Changed 11.06 to 11.06.1
+
+ -- Leng Ganghua <leng@lenox>  Sat, 23 Jul 2011 07:02:20 +0800
+
+deepin-info (2011.06.10) natty; urgency=low
+
+  * Corrected 32bit info file
+
+ -- Leng Ganghua <hiweed@gmail.com>  Fri, 10 Jun 2011 05:40:51 +0800
+
+deepin-info (2011.06.09) natty; urgency=low
+
+  * Replaces: deepin-info-main
+
+ -- Leng Ganghua <hiweed@gmail.com>  Thu, 09 Jun 2011 21:42:26 +0800
+
+deepin-info (2011.06.04) natty; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sat, 04 Jun 2011 07:42:06 +0800

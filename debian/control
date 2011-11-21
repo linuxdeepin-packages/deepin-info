@@ -1,0 +1,14 @@
+Source: deepin-info
+Section: admin
+Priority: optional
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Build-Depends: debhelper (>= 8.1.3~)
+Standards-Version: 3.9.2
+
+Package: deepin-info-gnome
+Architecture: any
+Provides: deepin-info
+Replaces: deepin-info-main, deepin-info
+Description: Necessary information about the Linux Deepin release and edition.
+ Base package. This package is needed by the Deepin tools and the system to uniquely identify the edition and release of Linux Deepin you're using and to get information related to it.
+

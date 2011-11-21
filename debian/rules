@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+%:
+	dh $@
+
+override_dh_install:
+	mkdir -p $(CURDIR)/debian/deepin-info-gnome/etc/linuxdeepin/
+	sh debian/geninfo.sh >$(CURDIR)/debian/deepin-info-gnome/etc/linuxdeepin/info
